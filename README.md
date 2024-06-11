@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sagarkr5661/Sagarkr5661/blob/main/C414DEB2-E518-48C4-B3FE-C8F7CCEDA5F7.png)
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">A passionate machine-learning enthusiast from India</h3>
-<img align=“right”alt=“coding”width=“400”src=“https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif”>
+<img align ="right" alt="coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Animated GIF">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarkr5661&label=Profile%20views&color=0e75b6&style=flat" alt="sagarkr5661" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/https://x.com/sagarkumar2024" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/https://x.com/sagarkumar2024?logo=twitter&style=for-the-badge" alt="https://twitter.com/https://x.com/sagarkumar2024" /></a> </p>
