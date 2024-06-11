@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGH233aBc0/vSolWeVYYH01-zz6olyu7g/export/png" alt="Image from Canva">
+![logo](https://github.com/Sagarkr5661/Sagarkr5661/blob/main/C414DEB2-E518-48C4-B3FE-C8F7CCEDA5F7.png)
 <h1 align="center">Hi 👋, I'm Sagar Kumar</h1>
 <h3 align="center">A passionate machine-learning enthusiast from India</h3>
 <img align=“right”alt=“coding”width=“400”src=“https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif”>
